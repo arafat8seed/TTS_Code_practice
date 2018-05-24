@@ -1,0 +1,14 @@
+.square,.circle{  /*here , is and selector for both .square and circle*/
+  display: inline-block;
+}
+.square {
+  height: 120px;
+  width: 120px;
+  background-color: red;
+}
+.circle{
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: green;
+}
